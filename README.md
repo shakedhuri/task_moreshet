@@ -22,8 +22,7 @@
 
 
 
-
-![alt text](Images/8.jpeg)
+<img src="Images/8.jpeg" width="150" height="280">
 
 
 
