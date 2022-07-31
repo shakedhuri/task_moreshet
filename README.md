@@ -166,7 +166,27 @@
 ראש החודש השביעי  
 יום כיפור  
 חג הסוכות   
-שמיני עצרת  
+שמיני עצרת
+
+<p align="center">
+ <img src="Images/עליה לרגל להר גריזים.jpg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/חג השבועות השומרונים.jpg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/זבח פסח וחג המצות.jpg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/11.jpeg" width="450" height="350">
+</p>
+
+
+
+
 
 
 שבת:  
