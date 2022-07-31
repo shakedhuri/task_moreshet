@@ -266,4 +266,37 @@
 וכאשר יולדת בת, עליה לשמור 80 ימי טומאה - 14 ימי נידה ועוד 66 ימי טומאה בדרגה מופחתת יותר.  
 
 
-לנשים השומרוניות אין לבוש מיוחד הן רשאיות להתלבש לפי טעמן אך נמנעות מלבישת מכנסיים ביום השבת.  
+לנשים השומרוניות אין לבוש מיוחד הן רשאיות להתלבש לפי טעמן אך נמנעות מלבישת מכנסיים ביום השבת.
+
+
+
+<p align="center">
+ <img src="Images/7.jpeg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/9.jpeg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/13.jpeg" width="450" height="350">
+</p>
+
+<p align="center">
+ <img src="Images/15.jpeg" width="450" height="350">
+</p>
+
+
+<p align="center">
+ <img src="Images/19.jpeg" width="450" height="350">
+</p>
+
+
+<p align="center">
+ <img src="Images/25.jpeg" width="450" height="350">
+</p>
+
+
+<p align="center">
+ <img src="Images/26.jpeg" width="450" height="350">
+</p>
