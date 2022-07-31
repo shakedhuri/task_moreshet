@@ -347,3 +347,23 @@
  <img src="Images/נוף שכם.jpeg" width="450" height="350">
 </p>
 
+
+מקורות ומידע:  
+
+כמו שכתוב לעיל העבודה נכתבה מהידע שרכשתי מהסיור הלימודי וכן מתוך מקורות מידע באינטרנט  
+
+מקורות:  
+
+
+"מגלים על השומרונים" - "https://shomronim.co.il/%d7%9e%d7%92%d7%9c%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%a0%d7%99%d7%9d/"
+
+"הקהילה השומרונית ביראל" - "https://shomronim.co.il/" 
+
+"דת השומרונים - ויקיפדיה" - "https://he.wikipedia.org/wiki/%D7%94%D7%93%D7%AA_%D7%94%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%A0%D7%99%D7%AA"
+
+"קהילת השומרונים" - "https://www.holon.muni.il/Havingfun/TourismRecreation/pages/shomroniim.aspx"
+
+
+
+
+
