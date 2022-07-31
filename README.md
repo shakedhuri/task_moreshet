@@ -333,6 +333,8 @@
  <img src="Images/נוף הר ברכה.jpeg" width="450" height="350">
 </p>
 
+*תמונה זו אינה נוף ממצפה יוסף אלא הנוף מחוץ למפעל הטחינה
+
 <p align="center">
  <img src="Images/נוף עץ בודד.jpeg" width="450" height="350">
 </p>
